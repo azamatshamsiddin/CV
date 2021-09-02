@@ -612,6 +612,10 @@ body {
 
 .skills-wrapper__list {
   list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .skills-wrapper__item {
